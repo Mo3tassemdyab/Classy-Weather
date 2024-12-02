@@ -1,4 +1,5 @@
-# Classy-Weather-App
+# Classy-Weather-App.
+Classy Weather Application Using Class Components.
 
 
 
