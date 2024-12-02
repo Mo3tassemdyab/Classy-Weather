@@ -11,8 +11,9 @@ Classy Weather Application Using Class Components.
 1-
 ![classy1](https://github.com/user-attachments/assets/bcc6617c-b61e-450e-b3f8-858ae033bb8e)
 
+2-
 
-
+![classy](https://github.com/user-attachments/assets/9b42d1c9-9f77-4543-879d-a992cea70820)
 
 
  
