@@ -4,7 +4,7 @@ Classy Weather Application Using Class Components.
  ## Visit Now ==> https://classy-weather-site.netlify.app/
 
 ## API used
-### Geocoding API
+### Geocoding API ==> https://open-meteo.com/en/docs/geocoding-api
 
 
 
