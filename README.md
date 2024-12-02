@@ -8,6 +8,9 @@ Classy Weather Application Using Class Components.
 
 # ScreenShots
 
+1-
+![classy1](https://github.com/user-attachments/assets/bcc6617c-b61e-450e-b3f8-858ae033bb8e)
+
 
 
 
