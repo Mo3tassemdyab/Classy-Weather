@@ -3,6 +3,17 @@ Classy Weather Application Using Class Components.
 
  ## Visit Now ==> https://classy-weather-site.netlify.app/
 
+## API used
+
+
+
+
+
+
+
+
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
